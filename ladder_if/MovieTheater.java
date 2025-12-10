@@ -1,7 +1,5 @@
 package ladder_if;
 
-import java.io.ObjectInputStream.GetField;
-
 public class MovieTheater {
 	public double getTicketPrice(int age)
 	{
