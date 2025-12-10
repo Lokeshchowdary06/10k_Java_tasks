@@ -1,4 +1,4 @@
-package ClassPractices;
+package Java_Practice;
 
 public class palindrom {
 		public static void main(String[] args) {
